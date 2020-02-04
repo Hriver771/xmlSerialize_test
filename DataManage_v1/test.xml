@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShapeType>0</ShapeType>
+  <Type>1</Type>
+  <Transform>
+    <Height>103</Height>
+    <Width>50</Width>
+    <ShowRoof>0</ShowRoof>
+    <ExtendedPoint>0</ExtendedPoint>
+    <Side>-1</Side>
+    <Direction>0</Direction>
+  </Transform>
+  <Position>
+    <Bottom>359</Bottom>
+    <Right>734</Right>
+    <Top>0</Top>
+    <Left>694</Left>
+  </Position>
+  <Points>
+    <y>256</y>
+    <x>694</x>
+  </Points>
+  <Points>
+    <y>256</y>
+    <x>694</x>
+  </Points>
+  <Label />
+</Object>

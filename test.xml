@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Object ShapeType="0" Type="1">
+  <Transform Height="103" Width="50" ShowRoof="0" ExtendedPoint="0" Side="0" Direction="-1"/>
+  <Position Bottom="359" Right="734" Top="256" Left="694"/>
+  <Points>
+    <Point y="256" x="694"/>
+    <Point y="359" x="734"/>
+  </Points>
+  <Label Text=""/>
+</Object>

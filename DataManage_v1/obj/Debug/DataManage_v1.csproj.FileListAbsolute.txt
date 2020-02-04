@@ -1,0 +1,14 @@
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\bin\Debug\DataManage_v1.exe.config
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\bin\Debug\DataManage_v1.exe
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\bin\Debug\DataManage_v1.pdb
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1.csprojAssemblyReference.cache
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\MainWindow.g.cs
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\App.g.cs
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1_MarkupCompile.cache
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1_MarkupCompile.lref
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\MainWindow.baml
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1.g.resources
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1.Properties.Resources.resources
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1.csproj.GenerateResource.cache
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1.exe
+C:\Users\Stradvision\source\repos\DataManage_v1\DataManage_v1\obj\Debug\DataManage_v1.pdb
